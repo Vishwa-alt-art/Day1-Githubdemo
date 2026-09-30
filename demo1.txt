@@ -1,0 +1,13 @@
+luffy
+zoro
+sanji
+nami
+usopp
+chopper
+franky
+brook
+robin
+jimbe
+
+-- INSERT --
+
